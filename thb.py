@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import serial
 import re
 import time
@@ -16,7 +17,7 @@ for port in ports :
         if re.search('HW_MODEL=THB_SENSOR', str(data, 'utf-8')):  
             print('Got correct reply')
             thb_ports.append(portCom)
-            thb_port = port;
+            thb_port = port
         else:
             portCom.close()       
     except:
