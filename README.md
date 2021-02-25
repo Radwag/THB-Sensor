@@ -1,5 +1,5 @@
 # THB-Sensor
-Simple example of getting Radwag THB Sensor readouts in python
+Simple example of getting Radwag THB Sensor readouts in Python, NodeJs and NetCore
 
 ![Alt text](/img/en_header.png)
 
