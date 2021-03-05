@@ -10,7 +10,7 @@ The THB sensor is designed to measure parameters such as temperature, humidity, 
 
 For more information about the THB protocol please refer to the manual:
 
-http://filecloud.radwag.com/index.php/s/Mtlyq8lH436OIoA
+http://filecloud.radwag.com/index.php/s/2EbsvnllBZgCTuY
 
 Drivers:
 
